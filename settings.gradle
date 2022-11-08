@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "libtest"
-include ':app'
+//include ':app'
 include ':testlib'
